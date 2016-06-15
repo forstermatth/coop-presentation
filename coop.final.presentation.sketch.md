@@ -1,7 +1,5 @@
-I have a ~15 minute presentation already in my head but its hard to get it into
-words.
 
-url: autovance.mattforster.ca
+# Notes
 
 what makes this unique?
 working in a startup environment
@@ -19,19 +17,19 @@ elements:
 -   outcomes
 -   conclusion
 
-# Presentation Sketch
+## Presentation Sketch
 
-## overview
+### overview
 
 talking about my time at Autovance and my ideal workplace
 
-## the startup environment
+### the startup environment
 
 -   freedom of choice
 -   integral participation
 -   highly motivated team environment
 
-## company: the role of an employee in a startup
+### company: the role of an employee in a startup
 
 -   how it affects the choices you make
 
@@ -48,13 +46,13 @@ talking about my time at Autovance and my ideal workplace
     -   lasting impact on the company
     -   motivated by being a part of something
 
-## learning: from nothing to now (highlights)
+### learning: from nothing to now (highlights)
 
 -   confidence
 -   open source contributions
 -   future?
 
-## learning objectives
+### learning objectives
 
 -   how they changed
 
@@ -63,7 +61,7 @@ talking about my time at Autovance and my ideal workplace
     -   my idea of a software job
     -   the expectations that I laid upon myself
 
-## learning outcomes
+### learning outcomes
 
 -   what objectives did I meet
 
@@ -71,13 +69,13 @@ talking about my time at Autovance and my ideal workplace
 
     -   will they ever end? no
 
-## my motivators (that itch)
+### my motivators (that itch)
 
 -   finding motivators is important to feeling good about work
 -   motivators
 -   ???
 
-## conclusion
+### conclusion
 
 -   i've become an integral part of the company
 -   i've come a long way, but the learning is still in full swing
