@@ -34,6 +34,12 @@ import createTheme from "spectacle/lib/themes/default";
 require("normalize.css");
 require("spectacle/lib/themes/default/index.css");
 
+var noteStyle = {
+  textColor: "heading",
+  textAlign: "flex-bottom right",
+  padding: "150px 80px 0px 0px",
+  fontSize: "0.5em"
+}
 
 const images = {
   desk: require("../assets/desk.jpg"),
@@ -159,7 +165,13 @@ export default class Presentation extends React.Component {
             <Text textColor="secondary" textAlign={"center"}>have come a long way, but the learning is still in full swing</Text>
             <Text textColor="secondary" textAlign={"center"}>becoming a part of something great</Text>
 
-            <Text> presentation code available at <Link></Link> </Text>
+            <Layout>
+              <Text style={noteStyle}>Made with
+              <Link textColor="tertiary" href="https://github.com/FormidableLabs/spectacle"> spectacle </Link>
+              ontop of <Link textColor="tertiary" href="https://github.com/facebook/react"> react </Link>.
+              Presentation code available at on
+              <Link textColor="tertiary" href="https://github.com/forstermatth/coop-presentation"> github</Link>. </Text>
+            </Layout>
           </Slide>
 
         </Deck>
