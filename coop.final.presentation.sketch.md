@@ -1,13 +1,16 @@
-# Notes
+# Presentation Sketch
 
-what makes this unique?
-working in a startup environment
+## Notes
 
-## title
+-   what makes this coop unique? = working in a startup environment
+-   emphasis on good working and learning environment
+-   1m per slide (8min)
+
+### Title
 
 Working For a Startup or: How working for a smaller company scratches that itch
 
-## elements
+### Elements
 
 -   overview: working at Autovance
 -   the startup environment
@@ -19,41 +22,50 @@ Working For a Startup or: How working for a smaller company scratches that itch
 
 ## Presentation Notes
 
-### objective
+### Objective
 
-talking about my time at Autovance and my ideal workplace.
+talking about my time at Autovance and my idea of a good
+workplace. Short statements on slides to allow for a more talk
+driven presentation.
 
-  How did this come to be?
-  Working at such a great place
-  People, challenges
+    How did this come to be?
+    Working at such a great place
+    People, challenges
 
-### the startup environment
+### The startup environment
 
 -   freedom of choice
 
+        Choices having wide effect on the direction of the company
+
 -   integral participation
+
+        sitting beside and solving problems every day
+        easily brainstorm
+        whole company meetings (only 5 people)
+
 
 -   highly motivated team environment
 
-    Choices having wide effect on the direction of the company
-    sitting beside and solving problems every day
-    easily brainstorm
-    excitement about challenges and solutions
+        excitement about challenges and solutions
+        drive each other towards success
+        easily recieve feedback
 
-### company: the role of an employee in a startup
+### Company: The Role of an Employee in a Startup
 
--   how it affects the choices you make
+-   it affects the choices you make
+
+        need to take the future into account
+        how do we scale?
 
 -   immediate stakeholder
 
+        company includes employees in large decisions
+
 -   environment
 
-    -   silicon coulee
-
-        joke
-
-    -   what is the 'ideal workplace'
-
+        silicon coulee - joke
+        what is the 'ideal workplace'
         helping the company and people move forward
         everybody looking in the same direction
 
@@ -63,55 +75,86 @@ talking about my time at Autovance and my ideal workplace.
         lasting impact on the company
         motivated by being a part of something
 
-### learning: from nothing to now (highlights)
+### Learning: From Nothing to Now (Highlights)
 
 -   confidence
 
+        I can move forward with ideas
+        confidence to make mistakes
+        knowing that ill fix
+
 -   open source contributions
 
-    future?
+        contributing to large projects
+        something that takes confidence
+        improving code for others
+         _ sign of a good dev
+        future?
 
-### learning objectives
+### Learning Objectives
 
 -   how they changed
 
--   where they came from
+        from simple to complex
+        where they came from
 
-    -   my idea of a software job
-    -   the expectations that I laid upon myself
+-   my idea of a software job
 
-### learning outcomes
+        freedom
+        acknowledgment
+        challenge
+        teamwork - feed off each other
+
+-   the expectations that I laid upon myself
+
+        high?
+        made mistakes
+        changing daily
+        keep overcoming challenges
+        personal, perfessional
+
+### Learning Outcomes
 
 -   what objectives did I meet
 
-      language, teamwork
-      learnt a lot about javascript ecosystem
-      proficent developer workflow
+        language, teamwork
+        learnt a lot about javascript ecosystem
+        proficient developer workflow
 
 -   what objectives are still underway?
 
-      High level learning
-      working in a team - code review
-      finding that perfect flow
+        High level learning
+        working in a team - code review
+        finding that perfect flow
 
-    -   will they ever end? no
+-   will they ever end? no
 
-### my motivators (that itch)
+### My Motivators (that itch)
 
 -   finding motivators is important to feeling good about work
+
 -   motivators
 
-       good code - more learning / working smart
-       solving problems - being challenged
-       collaberation, using tools (github, trello)
+         good code - more learning / working smart
+         solving problems - being challenged
+         collaboration, using tools (github, trello)
 
-### conclusion
+### Conclusion
 
 -   i've become an integral part of the company
+
 -   i've come a long way, but the learning is still in full swing
+
 -   i've become a part of something great
 
-    job: fulfilling
-    gives me room to grow professionally and personally
+        job: fulfilling
+        gives me room to grow professionally and personally
 
 ## Questions
+
+-   whats next?
+
+      Autovance + finish degree
+        want to see the Autovance on to the next step
+
+-   ??
